@@ -1,0 +1,2 @@
+This is file C.
+This is another text file for practicing shutil.
